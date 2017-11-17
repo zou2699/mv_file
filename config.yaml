@@ -1,0 +1,4 @@
+#path
+root_dir: '/root/mycode/find_file/'
+output_dir: '/root/mycode/find_file/py'
+file_type: '.py'
